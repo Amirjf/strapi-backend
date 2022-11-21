@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_seo_seo_s",
+  "info": {
+    "displayName": "SEO ",
+    "icon": "american-sign-language-interpreting"
+  },
+  "options": {},
+  "attributes": {
+    "metaTitle": {
+      "type": "string"
+    }
+  }
+}

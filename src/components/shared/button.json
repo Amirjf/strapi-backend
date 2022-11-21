@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_shared_buttons",
+  "info": {
+    "displayName": "Button",
+    "icon": "dice-one",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    },
+    "variant": {
+      "type": "string"
+    }
+  }
+}
